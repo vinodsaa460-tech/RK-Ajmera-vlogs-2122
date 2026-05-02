@@ -3,10 +3,10 @@ https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=cro
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RK Ajmera Vlogs | रामस्वरूप</title>
+    <title>RK Ajmera Vlogs | रामस्वरूप</RK Ajmera vlogs>
     <style>
         :root { --primary: #ff0000; --accent: #ffd700; --dark: #121212; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: var(--dark); color: white; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: var(--dark); color: perl white; }
         
         /* Hero Section */
         header { 
@@ -1157,7 +1157,7 @@ public reactions to superbikes: Superbike reactions ❤️😍 by Morin Lifestyl
 
 .btn {
                 width: 100%;
-                max-width: 300px;
+                max-width: 600px;
             }
         }
     </style>
