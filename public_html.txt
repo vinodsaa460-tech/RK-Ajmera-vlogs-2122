@@ -1,0 +1,25 @@
+<!-- HTML Code -->
+<a href="https://youtube.com/@rk_ajmera_r15_m_vlogs?si=DuwUqlGdQuxtcKjR" target="_blank" class="yt-button">
+  Visit YouTube Channel
+</a>
+
+<!-- CSS Style (इन्हें अपने CSS स्टाइलशीट या <style> टैग में रखें) -->
+<style>
+  .yt-button {
+    display: inline-block;
+    background-color: #FF0000; /* YouTube Red Color */
+    color: #ffffff;
+    padding: 12px 24px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+  }
+
+  .yt-button:hover {
+    background-color: #CC0000; /* Hover होने पर डार्क रेड */
+  }
+</style>
+https://youtube.com/@rk_ajmera_r15_m_vlogs?si=DuwUqlGdQuxtcKjR
